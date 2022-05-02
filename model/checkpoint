@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/hemanth/Downloads/new/model/cnn_model.tfl"
+all_model_checkpoint_paths: "/home/hemanth/Downloads/new/model/cnn_model.tfl"
